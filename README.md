@@ -1,4 +1,5 @@
 # ConsoleApp9
 
-<img width="747" height="727" alt="image" src="https://github.com/user-attachments/assets/1454a484-fbbb-46f8-90e5-a16c1e7ce34a" />
+<img width="42" height="34" alt="20260605-0723-39 2999436" src="https://github.com/user-attachments/assets/ef7c342a-4299-4bbf-a938-33d82bab0985" />
+
 
